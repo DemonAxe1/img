@@ -1,0 +1,19 @@
+   Town Name		     Density
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Calico, California              1.00
+Rhyolite, Nevada                1.00
+Goldfield, Arizona              1.00
+St. Elmo, Colorado              1.00
+Terlingua, Texas                1.00
+Virginia City, Montana          1.00
+Nevada City, Montana            1.00
+Bodie, California               1.00
+Cahawba, Alabama                1.00
+Kennecott, Alaska               1.00
+Bannack, Montana                1.00
+South Pass City, Wyoming        1.00
+Centralia, Pennsylvania         1.00
+Thurmond, West Virginia         1.00
+Glenrio, Texas                  1.00
+Glenrio, New Mexico             1.00
+Bulowville, Florida             1.00
